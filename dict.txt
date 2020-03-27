@@ -1,0 +1,11 @@
+apple - malum, pomum, popula
+fruit - baca, bacca, popum
+punishment - malum, multa
+
+baca - fruit
+bacca - fruit
+malum - apple, punishment
+multa - apple, punishment
+pomum - apple
+popula - apple
+popum - fruit
